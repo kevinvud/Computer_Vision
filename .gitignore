@@ -1,3 +1,5 @@
-**/test
-not_now.txt
-*.not_again.txt
+/cv_superdata/ignore_me.txt
+/DeepLearningCV2/
+/MasterOpenCV/
+/DeepLearningCV2.tar.gz
+/MasterOpenCV.tar.gz
